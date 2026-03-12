@@ -10,7 +10,7 @@ Click [here](https://sensirion.com/products/product-categories/) to learn more a
 
 
 
-The default I²C address of [SBN4x](https://sensirion.com/products/catalog) is ****.
+The default I²C address of [SBN4x](https://sensirion.com/products/catalog) is **0x20**.
 
 
 
